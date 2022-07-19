@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-I am [Rutik], a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
+I am [Rutik](https://www.linkedin.com/in/rutik-kapadnis-b75800190/), a DevOps Engineer 
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
@@ -66,4 +62,4 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/rutik-kapadnis-b75800190/) 👨🏻‍💻
  - Follow me on [Instagram](https://www.instagram.com/rutik_kapadnis_12/) ✨
- - Shoot Me an [Email](rutikkapadnis123@gmail.com) 💌
+ - Shoot Me an [Email](mailto:rutikkapadnis123@gmail.com) 💌
