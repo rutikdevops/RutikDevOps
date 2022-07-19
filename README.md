@@ -67,13 +67,5 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/omkar845" target="blank"><img align="center"  height="30" width="40" /></a>
-
-
-
-
-<a href="https://linkedin.com/in/omkar vichare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar vichare" height="30" width="40" /></a>
-
-
-<a href="https://instagram.com/beyouommkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beyouommkar" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkar845" height="30" width="40" /></a>    <a href="https://linkedin.com/in/omkar vichare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar vichare" height="30" width="40" /></a>    <a href="https://www.instagram.com/rutik_kapadnis_12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rutik Kapadnis" height="30" width="40" /></a>
 </p>
