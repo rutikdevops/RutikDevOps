@@ -64,7 +64,6 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 ### 📫 How to reach me?
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/rutik-kapadnis-b75800190/) 👨🏻‍💻
+ - Follow me on [Instagram](https://www.instagram.com/rutik_kapadnis_12/) ✨
+ - Shoot Me an [Email](rutikkapadnis123@gmail.com) 💌
