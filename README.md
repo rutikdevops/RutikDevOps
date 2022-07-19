@@ -2,7 +2,7 @@
 
 I am [Rutik](https://www.linkedin.com/in/rutik-kapadnis-b75800190/), a DevOps Engineer 
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+I mostly work with Python, and Cloud based technologies. 🚀
 
 
 <p float="left">
@@ -58,14 +58,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 </p>
 
 
-### 📫 How to reach me?
-
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/rutik-kapadnis-b75800190/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/rutik_kapadnis_12/) ✨
- - Shoot Me an [Email](mailto:rutikkapadnis123@gmail.com) 💌
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkar845" height="30" width="40" /></a>    <a href="https://linkedin.com/in/omkar vichare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar vichare" height="30" width="40" /></a>    <a href="https://www.instagram.com/rutik_kapadnis_12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rutik Kapadnis" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkar845" height="30" width="40" /></a>      <a href="https://linkedin.com/in/omkar vichare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar vichare" height="30" width="40" /></a>      <a href="https://www.instagram.com/rutik_kapadnis_12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rutik Kapadnis" height="30" width="40" /></a>
 </p>
