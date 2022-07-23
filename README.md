@@ -28,17 +28,20 @@ I mostly work with Python, and Cloud based technologies. 🚀
 
 
 <p float="left">
+ <a href="https://www.ansible.com/" target="blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"  height="90" />
+  </a>
  <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
+ <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
   <a href="https://github.com/" target="_blank" >
     <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ly2ckx8fxckeku743n26h2afd81xlke461hl548o&rid=giphy.gif&ct=g"  height="90" />
   </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
-   <a href="https://www.ansible.com/" target="blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"  height="90" />
+ <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
  <a href="https://www.arduino.cc/" target="_blank" >
     <img src="https://media1.giphy.com/media/a7Ik5hjrFQuxiPKFZO/200w.gif"  height="75" />
