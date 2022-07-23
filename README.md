@@ -17,7 +17,9 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>            <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://www.shapeblue.com/wp-content/uploads/2020/12/Kubernetes-logo.png"  height="80" /> 
-  </a>            <a href="https://www.terraform.io/" target="blank" >
+  </a>             <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>             <a href="https://www.terraform.io/" target="blank" >
     <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png"  height="80" /> 
   </a>            <a href="https://www.ansible.com/" target="blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"  height="90" />
@@ -33,10 +35,6 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ly2ckx8fxckeku743n26h2afd81xlke461hl548o&rid=giphy.gif&ct=g"  height="90" />
   </a>
  
-  
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
   
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
