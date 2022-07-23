@@ -11,7 +11,7 @@ I mostly work with Python, and Cloud based technologies. 🚀
  <h3 align="left">Languages and Tools:</h3>
  
   <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47x4oxhaon0xnckl370n8ov92qtbf0wo7tewlo3r5n&rid=giphy.gif&ct=g"  height="90" />
+    <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg"  height="90" />
   </a>
 
  <a href="https://python.org/" target="_blank" >
