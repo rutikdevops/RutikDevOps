@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Rutik](https://www.linkedin.com/in/rutik-kapadnis-b75800190/), a DevOps Engineer 
+I am [Rutik](https://www.linkedin.com/in/rutik-kapadnis-b75800190/), a DevOps Engineer.
 I mostly work with Python, and Cloud based technologies. 🚀
 
 
