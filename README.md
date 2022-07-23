@@ -11,9 +11,6 @@ I mostly work with Python, and Cloud based technologies. 🚀
  <h3 align="left">Languages and Tools:</h3>
  
  
- 
- 
- 
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg"  height="90" />
   </a>            <a href="https://www.docker.com/" target="_blank" >
@@ -27,9 +24,6 @@ I mostly work with Python, and Cloud based technologies. 🚀
   </a>
 
 
-
-
-https://www.ansible.com/
  <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
