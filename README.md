@@ -37,9 +37,6 @@ I mostly work with Python, and Cloud based technologies. 🚀
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
- <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
    <a href="https://www.ansible.com/" target="blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"  height="90" />
   </a>
