@@ -10,43 +10,30 @@ I mostly work with Python, and Cloud based technologies. 🚀
 <p float="left">
  <h3 align="left">Languages and Tools:</h3>
  
+ 
+ 
+ 
+ 
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg"  height="90" />
-  </a>
-  
-  
-  
-   <a href="https://www.docker.com/" target="_blank" >
+  </a>            <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  
-  
-  <a href="https://kubernetes.io/" target="_blank" >
+  </a>            <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://www.shapeblue.com/wp-content/uploads/2020/12/Kubernetes-logo.png"  height="80" /> 
-  </a>
-  
-  
-  <a href="https://www.terraform.io/" target="blank" >
+  </a>            <a href="https://www.terraform.io/" target="blank" >
     <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png"  height="80" /> 
   </a>
 
- 
- 
- 
+
  <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
  
-  <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
-  </a>
   
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
+  
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
