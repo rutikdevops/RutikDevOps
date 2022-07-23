@@ -27,6 +27,11 @@ I mostly work with Python, and Cloud based technologies. 🚀
  <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
+  
+  
+  <a href="https://github.com/" target="_blank" >
+    <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ly2ckx8fxckeku743n26h2afd81xlke461hl548o&rid=giphy.gif&ct=g"  height="90" />
+  </a>
  
   
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
