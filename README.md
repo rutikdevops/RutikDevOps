@@ -21,8 +21,8 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>             <a href="https://www.terraform.io/" target="blank" >
     <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png"  height="80" /> 
-  </a>            <a href="https://www.ansible.com/" target="blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"  height="90" />
+  </a>             <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
 </p>
 
@@ -40,12 +40,12 @@ I mostly work with Python, and Cloud based technologies. 🚀
  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+   <a href="https://www.ansible.com/" target="blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"  height="90" />
   </a>
  <a href="https://www.arduino.cc/" target="_blank" >
     <img src="https://media1.giphy.com/media/a7Ik5hjrFQuxiPKFZO/200w.gif"  height="75" />
-  </a>
+ </a>
  </p>
   
   
