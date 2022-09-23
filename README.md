@@ -36,14 +36,8 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="80" />
  </a>               <a href="https://github.com/" target="_blank" >
     <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ly2ckx8fxckeku743n26h2afd81xlke461hl548o&rid=giphy.gif&ct=g"  height="80" />
- </a>               <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
  </a>               <a href="https://www.arduino.cc/" target="_blank" >
     <img src="https://media1.giphy.com/media/a7Ik5hjrFQuxiPKFZO/200w.gif"  height="100" />
- </a>               <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
- </a>               <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
  </a>               <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
  </a>
