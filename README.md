@@ -23,7 +23,16 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png"  height="80" /> 
   </a>             <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="80" />
+  </a>            
+  
+  
+  
+  <a href="https://www.nagios.org/" target="_blank" >
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Finterdruper.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ftechnologies_img%2Fpublic%2Fimages%2Ftechnologies%2Fnagios.gif%3Fitok%3DwkOcgilj&imgrefurl=https%3A%2F%2Finterdruper.com%2Ftechnologies%2Fnagios&tbnid=oe_UdsVAB0K2mM&vet=12ahUKEwjy0pforar6AhUXj9gFHfQWA6IQMygAegUIARDLAQ..i&docid=O3t0O8uURB3ByM&w=319&h=150&q=nagios%20logo%20gif&hl=en&ved=2ahUKEwjy0pforar6AhUXj9gFHfQWA6IQMygAegUIARDLAQ"  height="80" />
   </a>
+  
+  
+  
 </p>
 
 
