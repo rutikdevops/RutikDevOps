@@ -12,13 +12,13 @@ I mostly work with Python, and Cloud based technologies. 🚀
  
  
   <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg"  height="40" />
+    <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg"  height="60" />
   </a>            <a href="https://www.docker.com/" target="_blank" >
     <img src="https://c.tenor.com/z3Vqx6hmE5QAAAAC/whale-docker.gif"  height="60" /> 
   </a>            <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://www.shapeblue.com/wp-content/uploads/2020/12/Kubernetes-logo.png"  height="80" /> 
+    <img src="https://www.shapeblue.com/wp-content/uploads/2020/12/Kubernetes-logo.png"  height="60" /> 
   </a>             <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="80" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="60" />
   </a>             <a href="https://www.terraform.io/" target="blank" >
     <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png"  height="80" /> 
   </a>             <a href="https://aws.amazon.com/" target="_blank" >
