@@ -30,7 +30,7 @@ I mostly work with Python, and Cloud based technologies. 🚀
   </a>             <a href="https://www.selenium.dev/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" height="30" />
   </a>             <a href="https://maven.apache.org/" target="_blank" >
-    <img src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/maven-logo-black-on-white.png?ssl=1" height="60" />
+    <img src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/maven-logo-black-on-white.png?ssl=1" height="80" />
   </a>
 </p>
 
