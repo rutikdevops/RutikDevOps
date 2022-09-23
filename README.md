@@ -11,10 +11,10 @@ I mostly work with Python, and Cloud based technologies. 🚀
  <h3 align="left">Languages and Tools:</h3>
  
  
-                  <a href="https://www.jenkins.io/" target="_blank" >
+  <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg"  height="40" />
   </a>            <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://c.tenor.com/z3Vqx6hmE5QAAAAC/whale-docker.gif"  height="40" /> 
+    <img src="https://c.tenor.com/z3Vqx6hmE5QAAAAC/whale-docker.gif"  height="60" /> 
   </a>            <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://www.shapeblue.com/wp-content/uploads/2020/12/Kubernetes-logo.png"  height="80" /> 
   </a>             <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
