@@ -27,11 +27,8 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://miro.medium.com/max/736/1*Wv7InsOzfX7gTWZWYd-T2A.png"  height="40" />
   </a>             <a href="https://www.chef.io/" target="_blank" >
     <img src="https://intellyx.com/wp-content/uploads/2019/04/chef-software_facebook-share_min-560x416.png" height="60" />
-  </a>            
-  
-  
-  <a href="https://www.chef.io/" target="_blank" >
-    <img src="https://intellyx.com/wp-content/uploads/2019/04/chef-software_facebook-share_min-560x416.png" height="60" />
+  </a>             <a href="https://www.selenium.dev/" target="_blank" >
+    <img src="https://www.agiratech.com/wp-content/uploads/2019/11/selenium.jpg" height="60" />
   </a>
 </p>
 
