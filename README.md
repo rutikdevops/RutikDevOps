@@ -21,7 +21,12 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://gitlab.msu.edu/uploads/-/system/project/avatar/6141/gitlab-ci-cd-logo_2x.png"  height="30" />
   </a>             <a href="https://www.terraform.io/" target="blank" >
     <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png"  height="60" /> 
-  </a>             <a href="https://aws.amazon.com/" target="_blank" >
+  </a>     
+  </p>
+  
+  
+  <p float="left">
+  <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="60" />
   </a>             <a href="https://www.nagios.org/" target="_blank" >
     <img src="https://miro.medium.com/max/736/1*Wv7InsOzfX7gTWZWYd-T2A.png"  height="40" />
