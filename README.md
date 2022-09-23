@@ -18,7 +18,7 @@ I mostly work with Python, and Cloud based technologies. 🚀
   </a>            <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://www.shapeblue.com/wp-content/uploads/2020/12/Kubernetes-logo.png"  height="60" /> 
   </a>             <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank" >
-    <img src="https://gitlab.msu.edu/uploads/-/system/project/avatar/6141/gitlab-ci-cd-logo_2x.png"  height="40" />
+    <img src="https://gitlab.msu.edu/uploads/-/system/project/avatar/6141/gitlab-ci-cd-logo_2x.png"  height="30" />
   </a>             <a href="https://www.terraform.io/" target="blank" >
     <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png"  height="60" /> 
   </a>             <a href="https://aws.amazon.com/" target="_blank" >
@@ -28,7 +28,7 @@ I mostly work with Python, and Cloud based technologies. 🚀
   </a>             <a href="https://www.chef.io/" target="_blank" >
     <img src="https://intellyx.com/wp-content/uploads/2019/04/chef-software_facebook-share_min-560x416.png" height="60" />
   </a>             <a href="https://www.selenium.dev/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" height="30" />
   </a>
 </p>
 
