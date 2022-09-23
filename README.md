@@ -25,6 +25,8 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="60" />
   </a>             <a href="https://www.nagios.org/" target="_blank" >
     <img src="https://miro.medium.com/max/736/1*Wv7InsOzfX7gTWZWYd-T2A.png"  height="60" />
+  </a>             <a href="https://www.chef.io/" target="_blank" >
+    <img src="https://e7.pngegg.com/pngimages/405/788/png-clipart-chef-devops-configuration-management-automation-software-development-chef-logo-company-text.png"  height="60" />
   </a>
 </p>
 
