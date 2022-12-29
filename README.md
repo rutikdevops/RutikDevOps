@@ -21,6 +21,8 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://gitlab.msu.edu/uploads/-/system/project/avatar/6141/gitlab-ci-cd-logo_2x.png"  height="30" />
   </a>             <a href="https://www.terraform.io/" target="blank" >
     <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png"  height="60" /> 
+  </a>             <a href="https://www.linux.org/" target="blank" >
+    <img src="https://banner2.cleanpng.com/20180324/qxw/kisspng-linux-kernel-operating-systems-free-and-open-sourc-linux-5ab6fba3ce59e6.7795666315219414118452.jpg"  height="60" /> 
   </a>     
   </p>
   
