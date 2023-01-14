@@ -38,6 +38,8 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" height="30" />
   </a>             <a href="https://maven.apache.org/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" height="30" />
+  </a>             <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" >
+    <img src="https://wiki.eclipse.org/images/8/88/Sonarqube.png" height="30" />
   </a>
 </p>
 
