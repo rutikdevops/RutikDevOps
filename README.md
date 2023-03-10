@@ -13,6 +13,9 @@ I mostly work with Python, and Cloud based technologies. 🚀
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
     <img src="https://bitmovin.com/wp-content/uploads/2016/07/c-sharp-logo2.gif"  height="60" />
   </a>
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="60" />
+  </a>
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg"  height="60" />
   </a>            <a href="https://www.docker.com/" target="_blank" >
@@ -51,8 +54,6 @@ I mostly work with Python, and Cloud based technologies. 🚀
 <p float="left">
  <a href="https://www.ansible.com/" target="blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"  height="60" />
- </a>               <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="60" />
  </a>               <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="60" />
  </a>               <a href="https://github.com/" target="_blank" >
