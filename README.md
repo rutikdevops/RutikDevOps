@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Rutik](https://www.linkedin.com/in/rutik-kapadnis-b75800190/), a DevOps Engineer.
+I am [Rutik](https://www.linkedin.com/in/rutik-kapadnis-b75800190/), a Software Engineer.
 
 I mostly work with Python, and Cloud based technologies. 🚀
 
@@ -8,9 +8,11 @@ I mostly work with Python, and Cloud based technologies. 🚀
 
 
 <p float="left">
- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left"> Programming Languages and Tools:</h3>
  
- 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
+    <img src="https://bitmovin.com/wp-content/uploads/2016/07/c-sharp-logo2.gif"  height="60" />
+  </a>
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg"  height="60" />
   </a>            <a href="https://www.docker.com/" target="_blank" >
