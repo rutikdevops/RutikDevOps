@@ -18,6 +18,23 @@ I mostly work with Python, and Cloud based technologies. 🚀
   </a>
   
   
+  
+  <p float="left">
+ <h3 align="left"> Front-end Tools:</h3>
+ <a href="https://html.com/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"  height="100" />
+ </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"  height="60" />
+ </a>
+ <a href="https://reactjs.org/" target="_blank" >
+    <img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif"  height="100" />
+ </a>
+ 
+ 
+ 
+ 
+  
   <p float="left">
  <h3 align="left"> Database:</h3>
  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" >
@@ -45,9 +62,7 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png"  height="60" /> 
   </a>             <a href="https://www.linux.org/" target="blank" >
     <img src="https://banner2.cleanpng.com/20180324/qxw/kisspng-linux-kernel-operating-systems-free-and-open-sourc-linux-5ab6fba3ce59e6.7795666315219414118452.jpg"  height="60" /> 
-  </a>             <a href="https://reactjs.org/" target="_blank" >
-    <img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif"  height="100" />
-  </a>
+  </a>      
   </p>
   
   
