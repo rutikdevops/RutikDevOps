@@ -39,7 +39,6 @@ I mostly work with Python, and Cloud based technologies. 🚀
  
  
  
- 
   
   <p float="left">
  <h3 align="left"> Database:</h3>
@@ -98,7 +97,7 @@ I mostly work with Python, and Cloud based technologies. 🚀
  </a>               <a href="https://www.arduino.cc/" target="_blank" >
     <img src="https://media1.giphy.com/media/a7Ik5hjrFQuxiPKFZO/200w.gif"  height="60" />
  </a>               <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" >
-    <img src="https://www.cosmos.esa.int/documents/514868/515269/header-nexus.png/4ed5a00e-411c-9f29-8670-4ab854230057?t=1509370341696" height="100" />
+    <img src="https://www.cosmos.esa.int/documents/514868/515269/header-nexus.png/4ed5a00e-411c-9f29-8670-4ab854230057?t=1509370341696" height="60" />
  </a>
   
 </p>
