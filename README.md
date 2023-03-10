@@ -23,6 +23,9 @@ I mostly work with Python, and Cloud based technologies. 🚀
  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" >
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"  height="60" />
  </a>
+ <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://media.tenor.com/NN9_wWaCxx8AAAAC/mysql.gif"  height="60" />
+ </a>
  <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="100" />
  </a>
