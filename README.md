@@ -22,13 +22,16 @@ I mostly work with Python, and Cloud based technologies. 🚀
   <p float="left">
  <h3 align="left"> Front-end Tools:</h3>
  <a href="https://html.com/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"  height="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"  height="80" />
  </a>
  <a href="https://www.w3schools.com/css/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"  height="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"  height="80" />
+ </a>
+ <a href="https://www.w3schools.com/js/" target="_blank" >
+    <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"  height="80" />
  </a>
  <a href="https://reactjs.org/" target="_blank" >
-    <img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif"  height="100" />
+    <img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif"  height="80" />
  </a>
  
  
