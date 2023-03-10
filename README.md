@@ -55,7 +55,8 @@ I mostly work with Python, and Cloud based technologies. 🚀
  
   
   
-  
+  <p float="left">
+ <h3 align="left"> DevOps Tools:</h3>
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg"  height="60" />
   </a>            <a href="https://www.docker.com/" target="_blank" >
