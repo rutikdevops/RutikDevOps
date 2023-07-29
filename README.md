@@ -103,7 +103,13 @@ I mostly work with Python, and Cloud based technologies. 🚀
 </p>
 
 
+## My hashnode Blogs (Expand to View)
 
+<details>
+  <summary><b>Tap Me</b></summary>
+<img src="https://rutikdevops.hashnode.dev/embarking-on-a-journey-my-first-step-into-the-world-of-blogging"/>
+</p>
+  </details>
 
 
 
@@ -112,5 +118,5 @@ I mostly work with Python, and Cloud based technologies. 🚀
 <a href="https://twitter.com/KapadnisRutik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KapadnisRutik" height="30" width="40" /></a>     
 <a href="https://www.linkedin.com/in/rutik-kapadnis-b75800190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rutik Kapadnis" height="30" width="40" /></a>    
 <a href="https://www.instagram.com/rutik_kapadnis_12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rutik_kapadnis_12" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rutikdevops" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/16342708?s=200&v=4" alt="rutik_kapadnis_12" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rutikdevops" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/16342708?s=200&v=4" alt="rutik_kapadnis_12" height="50" width="40" /></a>
 </p>
