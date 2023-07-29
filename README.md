@@ -49,7 +49,8 @@ Visitor count<br>
 <a href="https://www.w3schools.com/css/" target="_blank" ><img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" width="40" height="40" /></a>
 <a href="https://www.javascript.com/" target="_blank" ><img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" width="40" height="40" /></a>
 </p>
-
+<br >
+<br />
 
 
 ## My hashnode Blogs:
