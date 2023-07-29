@@ -21,7 +21,7 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 <a href="https://www.linux.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" width="40" height="40" /> </a>
 <a href="https://www.nagios.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/736/1*Wv7InsOzfX7gTWZWYd-T2A.png" width="40" height="40" /></a>
 <a href="https://www.chef.io/" target="_blank" rel="noreferrer"><img src="https://intellyx.com/wp-content/uploads/2019/04/chef-software_facebook-share_min-560x416.png" width="40" height="40" /></a>
