@@ -12,6 +12,16 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 <br />
 
 
+- 🔭 I’m currently working as Cloud DevOps Engineer
+- 🌱 I’m currently learning **AWS CI/CD Pipeline and AWS services
+- 👯 I’m looking to collaborate on **DevOps Project**
+- 👨‍💻 All of my projects are available at
+- 📝 I regularly write articles on https://hashnode.com/@rutikdevops
+- 📫 How to reach me https://www.linkedin.com/in/rutik-kapadnis-b75800190/
+  
+
+  
+
 ## :zap: Languages and Tools:
 <p align="center"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
