@@ -2,8 +2,7 @@
 
 I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Docker, Kubernetes , Ansible, Terraform, shell scripting ,cloud infrastructure etc. I mostly work with Python, and Cloud based technologies. 🚀
 
-<p float="left">
- <h3 align="left"> Programming Languages and Tools:</h3>
+## :zap: Skills
  
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
     <img src="https://bitmovin.com/wp-content/uploads/2016/07/c-sharp-logo2.gif"  height="80" />
