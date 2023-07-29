@@ -2,6 +2,16 @@
 
 I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Docker, Kubernetes , Ansible, Terraform, shell scripting ,cloud infrastructure etc. I mostly work with Python, and Cloud based technologies. 🚀
 
+
+<p align="center"> 
+  Visitor count<br>
+  <br>
+  <img src="https://profile-counter.glitch.me/Rutik Kapadnis/count.svg" />
+</p>
+<br >
+<br />
+
+
 ## :zap: Skills
  
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
