@@ -27,7 +27,7 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 <a href="https://www.chef.io/" target="_blank" rel="noreferrer"><img src="https://intellyx.com/wp-content/uploads/2019/04/chef-software_facebook-share_min-560x416.png" width="40" height="40" /></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" width="40" height="40" /></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" width="40" height="40" /></a>
-<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"><img src="https://wiki.eclipse.org/images/8/88/Sonarqube.png" width="40" height="40" /></a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="40" height="40" /></a>
 <a href="https://www.ansible.com/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" width="40" height="40" /></a>
 </p>
 
