@@ -4,7 +4,7 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 
 
 <p align="center"> 
-<h1> Visitor count</h1> <br>
+Visitor count<br>
   <br>
   <img src="https://profile-counter.glitch.me/Rutik Kapadnis/count.svg" />
 </p>
