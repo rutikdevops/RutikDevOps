@@ -17,7 +17,7 @@ I mostly work with Python, and Cloud based technologies. 🚀
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="80" />
   </a>
   <a href="https://www.linux.org/" target="blank" >
-    <img src="https://banner2.cleanpng.com/20180324/qxw/kisspng-linux-kernel-operating-systems-free-and-open-sourc-linux-5ab6fba3ce59e6.7795666315219414118452.jpg"  height="80" />
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="80" />
  </a>
   
   
