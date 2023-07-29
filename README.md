@@ -116,8 +116,7 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
   </details>
 
 
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="center" >Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/KapadnisRutik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KapadnisRutik" height="30" width="40" /></a>     
 <a href="https://www.linkedin.com/in/rutik-kapadnis-b75800190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rutik Kapadnis" height="30" width="40" /></a>    
