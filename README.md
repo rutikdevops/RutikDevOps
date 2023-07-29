@@ -63,11 +63,23 @@ Visitor count<br>
 <br />
 
 
-## Connect with me:
-
 <div id="header" align="center">
   <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="400"/>
 </div>
+
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rutik-kapadnis-b75800190/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:rutikkapadnis123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://hashnode.com/@rutikdevops">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
+  </a>
+</div>
+
 
 <p align="center">
 <a href="https://twitter.com/KapadnisRutik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
