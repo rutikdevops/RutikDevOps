@@ -107,7 +107,7 @@ I mostly work with Python, and Cloud based technologies. 🚀
 
 <details>
   <summary><b>Tap Me</b></summary>
-<img src="https://rutikdevops.hashnode.dev/embarking-on-a-journey-my-first-step-into-the-world-of-blogging"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rutikdevops.hashnode.dev/embarking-on-a-journey-my-first-step-into-the-world-of-blogging&large=false&theme=dark"/>
 </p>
   </details>
 
