@@ -12,7 +12,7 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 <br />
 
 
-
+## :zap: Languages and Tools:
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
@@ -34,7 +34,7 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://www.cosmos.esa.int/documents/514868/515269/header-nexus.png/4ed5a00e-411c-9f29-8670-4ab854230057?t=1509370341696" width="40" height="40" /></a>
 <a href="https://html.com/" target="_blank" ><img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" ><img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" width="40" height="40" /></a>
-<a href="https://www.javascript.com/" target="_blank" ><img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
+<a href="https://www.javascript.com/" target="_blank" ><img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" width="40" height="40" /></a>
 </p>
 
 
