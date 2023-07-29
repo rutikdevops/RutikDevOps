@@ -4,7 +4,7 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 
 
 <p align="center"> 
-  Visitor count<br>
+<h1> Visitor count</h1> <br>
   <br>
   <img src="https://profile-counter.glitch.me/Rutik Kapadnis/count.svg" />
 </p>
@@ -15,13 +15,12 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 - 🔭 I’m currently working as Cloud DevOps Engineer
 - 🌱 I’m currently learning **AWS CI/CD Pipeline and AWS services
 - 👯 I’m looking to collaborate on **DevOps Project**
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at https://github.com/rutikdevops?tab=repositories
 - 📝 I regularly write articles on https://hashnode.com/@rutikdevops
 - 📫 How to reach me https://www.linkedin.com/in/rutik-kapadnis-b75800190/
   
 
   
-
 ## :zap: Languages and Tools:
 <p align="center"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
@@ -51,14 +50,12 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 
 
 
-## My hashnode Blogs (Expand to View)
-
+## My hashnode Blogs:
 <details>
   <summary><b>Tap Me</b></summary>
 <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rutikdevops.hashnode.dev/embarking-on-a-journey-my-first-step-into-the-world-of-blogging&large=false&theme=dark"/>
 </p>
   </details>
-
 
 
 ## Connect with me:
