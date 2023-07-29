@@ -18,6 +18,9 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://bitmovin.com/wp-content/uploads/2016/07/c-sharp-logo2.gif" alt="azure" width="40" height="40"/></a>
 <a href="https://python.org/" target="_blank" rel="noreferrer"> <img src="https://bitmovin.com/wp-content/uploads/2016/07/c-sharp-logo2.gif" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.shapeblue.com/wp-content/uploads/2020/12/Kubernetes-logo.png" width="40" height="40"/> </a>
 </p>
 
 
