@@ -22,6 +22,9 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.shapeblue.com/wp-content/uploads/2020/12/Kubernetes-logo.png" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" width="40" height="40" /> </a>
+<a href="https://www.nagios.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/736/1*Wv7InsOzfX7gTWZWYd-T2A.png" width="40" height="40" /></a>
+<a href="https://www.chef.io/" target="_blank" rel="noreferrer"><img src="https://intellyx.com/wp-content/uploads/2019/04/chef-software_facebook-share_min-560x416.png" width="40" height="40" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" width="40" height="40" /></a>
 </p>
 
 
