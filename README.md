@@ -16,7 +16,7 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://bitmovin.com/wp-content/uploads/2016/07/c-sharp-logo2.gif" alt="azure" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" width="40" height="40"/></a>
 <a href="https://python.org/" target="_blank" rel="noreferrer"> <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
