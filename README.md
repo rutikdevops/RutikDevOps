@@ -31,6 +31,7 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ly2ckx8fxckeku743n26h2afd81xlke461hl548o&rid=giphy.gif&ct=g" width="40" height="40" /></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://media1.giphy.com/media/a7Ik5hjrFQuxiPKFZO/200w.gif" width="40" height="40" /></a>     
 <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://www.cosmos.esa.int/documents/514868/515269/header-nexus.png/4ed5a00e-411c-9f29-8670-4ab854230057?t=1509370341696" width="40" height="40" /></a>
+<a href="https://html.com/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="40" height="40" /></a>
 </p>
 
 
