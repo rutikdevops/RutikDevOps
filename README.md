@@ -25,10 +25,10 @@ I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Do
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" width="40" height="40" /> </a>
 <a href="https://www.nagios.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/736/1*Wv7InsOzfX7gTWZWYd-T2A.png" width="40" height="40" /></a>
 <a href="https://www.chef.io/" target="_blank" rel="noreferrer"><img src="https://intellyx.com/wp-content/uploads/2019/04/chef-software_facebook-share_min-560x416.png" width="40" height="40" /></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" width="40" height="40" /></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" width="40" height="40" /></a>
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="40" height="40" /></a>
 <a href="https://www.ansible.com/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" width="40" height="40" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif cid=ecf05e47ly2ckx8fxckeku743n26h2afd81xlke461hl548o&rid=giphy.gif&ct=g" width="40" height="40" /></a>
 </p>
 
 
