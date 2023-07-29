@@ -1,11 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rutik Kapadnis</h1>
 
-I am [Rutik](https://www.linkedin.com/in/rutik-kapadnis-b75800190/), a DevOps Engineer.
-
-I mostly work with Python, and Cloud based technologies. 🚀
-
-
-
+I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Docker, Kubernetes , Ansible, Terraform, shell scripting ,cloud infrastructure etc. I mostly work with Python, and Cloud based technologies. 🚀
 
 <p float="left">
  <h3 align="left"> Programming Languages and Tools:</h3>
