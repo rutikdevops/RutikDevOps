@@ -59,7 +59,7 @@ Visitor count<br>
 ## My Blogs:
 <details>
   <summary><b>Tap Me</b></summary>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rutikdevops.hashnode.dev/embarking-on-a-journey-my-first-step-into-the-world-of-blogging&large=false&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://medium.com/@rutikdevops/build-and-deploy-application-on-docker-container-with-the-help-of-ansible-a54061ef7d3&large=false&theme=dark"/>
 </p>
   </details>
 <br >
