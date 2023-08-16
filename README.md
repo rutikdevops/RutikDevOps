@@ -56,7 +56,8 @@ Visitor count<br>
 <br />
 
 
-## My Blogs:
+## ![blog](https://github.com/rutikdevops/RutikDevOps/assets/109506158/b17adeac-afea-4b6c-bfac-6095f5da2a78)
+My Blogs:
 <details>
   <summary><b>Tap Me</b></summary>
 <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rutikdevops.hashnode.dev/embarking-on-a-journey-my-first-step-into-the-world-of-blogging&large=false&theme=dark"/>
