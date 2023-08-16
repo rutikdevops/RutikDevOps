@@ -60,6 +60,8 @@ Visitor count<br>
 <details>
   <summary><b>Tap Me</b></summary>
 <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://medium.com/@rutikdevops/build-and-deploy-application-on-docker-container-with-the-help-of-ansible-a54061ef7d3&large=false&theme=dark"/>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://medium.com/@rutikdevops/build-and-deploy-application-on-docker-container-with-the-help-of-ansible-a54061ef7d3" alt="Recent Article 0"> 
+
 </p>
   </details>
 <br >
