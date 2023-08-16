@@ -72,6 +72,9 @@ Visitor count<br>
 <p align="center">
 <a href="mailto:rutikkapadnis123@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=192&id=P7UIlhbpWzZm&format=png" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/rutik-kapadnis-b75800190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://medium.com/@rutikdevops" target="blank"><img align="center" src="https://img.icons8.com/?size=192&id=GCFsv1L11D1z&format=png" height="40" width="40" /></a>
+<a href="https://twitter.com/KapadnisRutik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rutik_kapadnis_12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 
