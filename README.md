@@ -19,7 +19,7 @@ Visitor count<br>
 - 👯 I’m looking to collaborate on **DevOps Project**
 - 📝 Check my Linktree Portfolio at https://linktr.ee/rutikdevops
 - 👨‍💻 All of my projects are available at https://github.com/rutikdevops?tab=repositories
-- 📝 I regularly write articles on https://hashnode.com/@rutikdevops
+- 📝 I regularly write articles on https://medium.com/@rutikdevops
 - 📫 How to reach me https://www.linkedin.com/in/rutik-kapadnis-b75800190/
 <br >
 <br />
