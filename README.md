@@ -56,7 +56,7 @@ Visitor count<br>
 <br />
 
 
-## My hashnode Blogs:
+## My Medium Blogs:
 <details>
   <summary><b>Tap Me</b></summary>
 <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rutikdevops.hashnode.dev/embarking-on-a-journey-my-first-step-into-the-world-of-blogging&large=false&theme=dark"/>
@@ -64,6 +64,17 @@ Visitor count<br>
   </details>
 <br >
 </br>
+
+
+
+
+## Connect With Me :
+<p align="center">
+<a href="mailto:rutikkapadnis123@gmail.com" target="blank"><img align="center" src="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rutik-kapadnis-b75800190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+</p>
+
+
 
 
 <div id="header" align="center">
