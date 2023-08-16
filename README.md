@@ -1,4 +1,5 @@
-https://media.licdn.com/dms/image/D4D16AQE-k7g3c3tVXg/profile-displaybackgroundimage-shrink_350_1400/0/1690723222251?e=1697673600&v=beta&t=wI9C1w87ZfTD5GSnvgSVTJlimnXkcP_NYzLaHtM9iv0
+![image](https://github.com/rutikdevops/RutikDevOps/assets/109506158/b863ee60-0347-412c-9ed4-268af2773134)
+
 <h1 align="center">Hi 👋, I'm Rutik Kapadnis</h1>
 
 I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Docker, Kubernetes , Ansible, Terraform, shell scripting ,cloud infrastructure etc. I mostly work with Python, and Cloud based technologies. 🚀
